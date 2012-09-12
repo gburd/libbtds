@@ -1,0 +1,4 @@
+* use libuv for IO
+* swap out LRU for the clockpro eviction algorithm
+* eviction drives locality of blocks
+* where to put values (fixed size?)
